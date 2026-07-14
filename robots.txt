@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-4e3p3v.quietmatches.com/sitemap.xml
